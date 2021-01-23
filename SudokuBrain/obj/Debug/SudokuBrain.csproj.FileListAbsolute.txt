@@ -1,0 +1,20 @@
+C:\Users\M3800\Desktop\CPP\Sudoku Brain\SudokuBrain\SudokuBrain\bin\Debug\SudokuBrain.exe.config
+C:\Users\M3800\Desktop\CPP\Sudoku Brain\SudokuBrain\SudokuBrain\bin\Debug\SudokuBrain.exe
+C:\Users\M3800\Desktop\CPP\Sudoku Brain\SudokuBrain\SudokuBrain\bin\Debug\SudokuBrain.pdb
+C:\Users\M3800\Desktop\CPP\Sudoku Brain\SudokuBrain\SudokuBrain\obj\Debug\SudokuBrain.csprojAssemblyReference.cache
+C:\Users\M3800\Desktop\CPP\Sudoku Brain\SudokuBrain\SudokuBrain\obj\Debug\SudokuBrain.Form1.resources
+C:\Users\M3800\Desktop\CPP\Sudoku Brain\SudokuBrain\SudokuBrain\obj\Debug\SudokuBrain.Properties.Resources.resources
+C:\Users\M3800\Desktop\CPP\Sudoku Brain\SudokuBrain\SudokuBrain\obj\Debug\SudokuBrain.csproj.GenerateResource.cache
+C:\Users\M3800\Desktop\CPP\Sudoku Brain\SudokuBrain\SudokuBrain\obj\Debug\SudokuBrain.csproj.CoreCompileInputs.cache
+C:\Users\M3800\Desktop\CPP\Sudoku Brain\SudokuBrain\SudokuBrain\obj\Debug\SudokuBrain.exe
+C:\Users\M3800\Desktop\CPP\Sudoku Brain\SudokuBrain\SudokuBrain\obj\Debug\SudokuBrain.pdb
+E:\Projects\SudokuBrain\SudokuBrain\SudokuBrain\bin\Debug\SudokuBrain.exe.config
+E:\Projects\SudokuBrain\SudokuBrain\SudokuBrain\bin\Debug\SudokuBrain.exe
+E:\Projects\SudokuBrain\SudokuBrain\SudokuBrain\bin\Debug\SudokuBrain.pdb
+E:\Projects\SudokuBrain\SudokuBrain\SudokuBrain\obj\Debug\SudokuBrain.csprojAssemblyReference.cache
+E:\Projects\SudokuBrain\SudokuBrain\SudokuBrain\obj\Debug\SudokuBrain.Form1.resources
+E:\Projects\SudokuBrain\SudokuBrain\SudokuBrain\obj\Debug\SudokuBrain.Properties.Resources.resources
+E:\Projects\SudokuBrain\SudokuBrain\SudokuBrain\obj\Debug\SudokuBrain.csproj.GenerateResource.cache
+E:\Projects\SudokuBrain\SudokuBrain\SudokuBrain\obj\Debug\SudokuBrain.csproj.CoreCompileInputs.cache
+E:\Projects\SudokuBrain\SudokuBrain\SudokuBrain\obj\Debug\SudokuBrain.exe
+E:\Projects\SudokuBrain\SudokuBrain\SudokuBrain\obj\Debug\SudokuBrain.pdb
